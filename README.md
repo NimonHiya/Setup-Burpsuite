@@ -37,4 +37,4 @@ Klik **OK**.
 ![Import CA](importCA.png)
 
 ![Setting Certificates](settingca.png)
-![Setting Certificates](aktifca.png)
+![Setting Certificates](AktifCA.png)
